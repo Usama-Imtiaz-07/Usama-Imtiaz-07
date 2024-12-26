@@ -16,7 +16,8 @@ a passionate Machine Learning Engineer and Data Scientist dedicated to building 
 - 🌐 **Web Applications**: Interactive demos using **Streamlit**, **Gradio**, and cloud integrations (**AWS**, **GCP**).  
 - 📊 **Data Analytics Tools**: Exploratory Data Analysis (EDA), visualizations, and predictive models.
 
-🌱 Future Aspirations
+## 🌱 Future Aspirations
+
 My long-term vision includes building impactful startups in robotics, gaming, and AI-driven solutions. I also aim to foster a community around AI, innovation, and technology.
 
 ### Skills
