@@ -9,20 +9,12 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 * 🌍  I'm based in London, United kingdom
 * ✉️  You can contact me at [osamaimtiaz677@gmail.com](mailto:osamaimtiaz677@gmail.com)
 
-Got it! Here's a more comprehensive and detailed revision of the **Data Science & Analytics** section, covering the full spectrum of data science work:
-
----
-
 ## 🔍 What You'll Find Here
 
 - 🧠 **AI & NLP Solutions**: Implementation of fine-tuned language models (e.g., BERT, GPT) for tasks like text classification, named entity recognition (NER), and question answering. Development of automatic speech recognition (ASR) systems, sentiment analysis pipelines, and retrieval-augmented generation (RAG) frameworks to enhance LLMs with external knowledge. Also includes building information extraction systems to derive structured insights from unstructured text. 
 - 🤖 **Deep Learning Applications**: Development of custom neural network architectures, computer vision models, and transformer-based systems for real-world challenges.  
 - 🌐 **Web-Based Tools**: Interactive applications built with **Streamlit** and **Gradio**, integrated with cloud platforms like **AWS** and **Azure** for scalable deployment.  
 - 📊 **Data Science & Analytics**: End-to-end data science projects, including **data cleaning**, **feature engineering**, **exploratory data analysis (EDA)**, and **statistical modeling**. I also build **predictive models** using machine learning algorithms, create **interactive dashboards** for data storytelling, and optimize **ETL pipelines** for efficient data processing. From wrangling messy datasets to deploying production-ready models, I focus on turning raw data into actionable insights.
-
-Here’s a polished and visually engaging **Technical Expertise** section for your README file, combining both **Data Science** and **NLP** expertise:
-
----
 
 ## 🛠️ **Technical Expertise**
 
@@ -41,8 +33,6 @@ Here’s a polished and visually engaging **Technical Expertise** section for yo
 - **Text Processing**: Implementing tokenization, lemmatization, and embeddings using libraries like **spaCy**, **NLTK**, and **Hugging Face Transformers**.  
 - **Information Extraction**: Extracting structured data (e.g., entities, relationships) from unstructured text.  
 - **Model Deployment**: Serving NLP models via APIs using **FastAPI**, **Flask**, or cloud services like **AWS SageMaker** and **Azure ML**.
-
----
 
 ### 🛠️ **Tools & Technologies**
 - **Programming**: Python, SQL, R, Javascript, C++  
