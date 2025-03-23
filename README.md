@@ -19,6 +19,7 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 ## 🛠️ **Technical Expertise**
 
 ### 📊 **Data Science**
+
 - **Data Wrangling**: Cleaning and preprocessing messy datasets using **Pandas**, **NumPy**, and custom pipelines.  
 - **Feature Engineering**: Crafting meaningful features to improve model performance, including handling missing data, scaling, and encoding.  
 - **Exploratory Data Analysis (EDA)**: Visualizing data trends and patterns with **Matplotlib**, **Seaborn**, and **Plotly**.  
@@ -27,6 +28,7 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 - **ETL Pipelines**: Designing efficient data workflows with **SQL**, **Apache Spark**, and cloud tools like **AWS Glue** and **Azure Data Factory**.
 
 ### 🧠 **Natural Language Processing (NLP)**  
+
 - **Fine-Tuning LLMs**: Adapting pre-trained models (e.g., BERT, GPT, T5) for tasks like text classification, sentiment analysis, and named entity recognition (NER).  
 - **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs with external knowledge retrieval for more accurate and context-aware responses.  
 - **Automatic Speech Recognition (ASR)**: Building transcription systems for voice-enabled applications.  
@@ -35,6 +37,7 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 - **Model Deployment**: Serving NLP models via APIs using **FastAPI**, **Flask**, or cloud services like **AWS SageMaker** and **Azure ML**.
 
 ### 🛠️ **Tools & Technologies**
+
 - **Programming**: Python, SQL, R, Javascript, C++  
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, langchain, Llamaindex  
 - **Visualization**: Matplotlib, Seaborn, Plotly, Tableau  
