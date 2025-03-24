@@ -8,37 +8,37 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 
 ## 🔍 What You'll Find Here
 
-- ### 🧠 <ins>**AI & NLP Solutions**</ins>: Implementation of fine-tuned language models (e.g., BERT, GPT) for tasks like text classification, named entity recognition (NER), and question answering. Development of automatic speech recognition (ASR) systems, sentiment analysis pipelines, and retrieval-augmented generation (RAG) frameworks to enhance LLMs with external knowledge. Also includes building information extraction systems to derive structured insights from unstructured text. 
-- ### 🤖 <ins>**Deep Learning Applications**</ins>: Development of custom neural network architectures, computer vision models, and transformer-based systems for real-world challenges.  
-- ### 🌐 <ins>**Web-Based Tools**</ins>: Interactive applications built with **Streamlit** and **Gradio**, integrated with cloud platforms like **AWS** and **Azure** for scalable deployment.  
-- ### 📊 <ins>**Data Science & Analytics**</ins>: End-to-end data science projects, including **data cleaning**, **feature engineering**, **exploratory data analysis (EDA)**, and **statistical modeling**. I also build **predictive models** using machine learning algorithms, create **interactive dashboards** for data storytelling, and optimize **ETL pipelines** for efficient data processing. From wrangling messy datasets to deploying production-ready models, I focus on turning raw data into actionable insights.
+- 🧠 <ins>**AI & NLP Solutions**</ins>: Implementation of fine-tuned language models (e.g., BERT, GPT) for tasks like text classification, named entity recognition (NER), and question answering. Development of automatic speech recognition (ASR) systems, sentiment analysis pipelines, and retrieval-augmented generation (RAG) frameworks to enhance LLMs with external knowledge. Also includes building information extraction systems to derive structured insights from unstructured text. 
+- 🤖 <ins>**Deep Learning Applications**</ins>: Development of custom neural network architectures, computer vision models, and transformer-based systems for real-world challenges.  
+- 🌐 <ins>**Web-Based Tools**</ins>: Interactive applications built with **Streamlit** and **Gradio**, integrated with cloud platforms like **AWS** and **Azure** for scalable deployment.  
+- 📊 <ins>**Data Science & Analytics**</ins>: End-to-end data science projects, including **data cleaning**, **feature engineering**, **exploratory data analysis (EDA)**, and **statistical modeling**. I also build **predictive models** using machine learning algorithms, create **interactive dashboards** for data storytelling, and optimize **ETL pipelines** for efficient data processing. From wrangling messy datasets to deploying production-ready models, I focus on turning raw data into actionable insights.
 
 ## 🛠️ **Technical Expertise**
 
 ### 📊 **Data Science**
 
-- ### <ins>**Data Wrangling**</ins>: Cleaning and preprocessing messy datasets using **Pandas**, **NumPy**, and custom pipelines.  
-- ### <ins>**Feature Engineering**</ins>: Crafting meaningful features to improve model performance, including handling missing data, scaling, and encoding.  
-- ### <ins>**Exploratory Data Analysis (EDA)**</ins>: Visualizing data trends and patterns with **Matplotlib**, **Seaborn**, and **Plotly**.  
-- ### <ins>**Predictive Modeling**</ins>: Building and deploying machine learning models (e.g., regression, classification, clustering) using **Scikit-learn** and **XGBoost**.  
-- ### <ins>**Data Storytelling**</ins>: Creating interactive dashboards and reports with **Tableau** and **Power BI** to communicate insights effectively.  
-- ### <ins>**ETL Pipelines**</ins>: Designing efficient data workflows with **SQL**, **Apache Spark**, and cloud tools like **AWS Glue** and **Azure Data Factory**.
+- <ins>**Data Wrangling**</ins>: Cleaning and preprocessing messy datasets using **Pandas**, **NumPy**, and custom pipelines.  
+- <ins>**Feature Engineering**</ins>: Crafting meaningful features to improve model performance, including handling missing data, scaling, and encoding.  
+- <ins>**Exploratory Data Analysis (EDA)**</ins>: Visualizing data trends and patterns with **Matplotlib**, **Seaborn**, and **Plotly**.  
+- <ins>**Predictive Modeling**</ins>: Building and deploying machine learning models (e.g., regression, classification, clustering) using **Scikit-learn** and **XGBoost**.  
+- <ins>**Data Storytelling**</ins>: Creating interactive dashboards and reports with **Tableau** and **Power BI** to communicate insights effectively.  
+- <ins>**ETL Pipelines**</ins>: Designing efficient data workflows with **SQL**, **Apache Spark**, and cloud tools like **AWS Glue** and **Azure Data Factory**.
 
 ### 🧠 **Natural Language Processing (NLP)**  
 
-- ### <ins>**Fine-Tuning LLMs**</ins>: Adapting pre-trained models (e.g., BERT, GPT, T5) for tasks like text classification, sentiment analysis, and named entity recognition (NER).  
-- ### <ins>**Retrieval-Augmented Generation (RAG)**</ins>: Enhancing LLMs with external knowledge retrieval for more accurate and context-aware responses.  
-- ### <ins>**Automatic Speech Recognition (ASR)**</ins>: Building transcription systems for voice-enabled applications.  
-- ### <ins>**Text Processing**</ins>: Implementing tokenization, lemmatization, and embeddings using libraries like **spaCy**, **NLTK**, and **Hugging Face Transformers**.  
-- ### <ins>**Information Extraction**</ins>: Extracting structured data (e.g., entities, relationships) from unstructured text.  
-- ### <ins>**Model Deployment**</ins>: Serving NLP models via APIs using **FastAPI**, **Flask**, or cloud services like **AWS SageMaker** and **Azure ML**.
+- <ins>**Fine-Tuning LLMs**</ins>: Adapting pre-trained models (e.g., BERT, GPT, T5) for tasks like text classification, sentiment analysis, and named entity recognition (NER).  
+- <ins>**Retrieval-Augmented Generation (RAG)**</ins>: Enhancing LLMs with external knowledge retrieval for more accurate and context-aware responses.  
+- <ins>**Automatic Speech Recognition (ASR)**</ins>: Building transcription systems for voice-enabled applications.  
+- <ins>**Text Processing**</ins>: Implementing tokenization, lemmatization, and embeddings using libraries like **spaCy**, **NLTK**, and **Hugging Face Transformers**.  
+- <ins>**Information Extraction**</ins>: Extracting structured data (e.g., entities, relationships) from unstructured text.  
+- <ins>**Model Deployment**</ins>: Serving NLP models via APIs using **FastAPI**, **Flask**, or cloud services like **AWS SageMaker** and **Azure ML**.
 
 ### 🛠️ **Tools & Technologies**
 
-- ### <ins>**Programming**</ins>: Python, SQL, R, Javascript, C++  
-- ### <ins>**Libraries**</ins>: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, langchain, Llamaindex  
-- ### <ins>**Visualization**</ins>: Matplotlib, Seaborn, Plotly, Tableau  
-- ### <ins>**Cloud & Deployment**</ins>: AWS, Azure, Docker, Kubernetes, FastAPI, Streamlit, Gradio  
+- <ins>**Programming**</ins>: Python, SQL, R, Javascript, C++  
+- <ins>**Libraries**</ins>: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, langchain, Llamaindex  
+- <ins>**Visualization**</ins>: Matplotlib, Seaborn, Plotly, Tableau  
+- <ins>**Cloud & Deployment**</ins>: AWS, Azure, Docker, Kubernetes, FastAPI, Streamlit, Gradio  
 
 ### Skills
 
