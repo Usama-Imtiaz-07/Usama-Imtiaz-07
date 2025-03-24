@@ -16,13 +16,13 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 ## 🛠️ **Technical Expertise**
 
 ### 📊 **Data Science**
-
-- <ins>**Data Wrangling**</ins>: Cleaning and preprocessing messy datasets using **Pandas**, **NumPy**, and custom pipelines.  
-- <ins>**Feature Engineering**</ins>: Crafting meaningful features to improve model performance, including handling missing data, scaling, and encoding.  
-- <ins>**Exploratory Data Analysis (EDA)**</ins>: Visualizing data trends and patterns with **Matplotlib**, **Seaborn**, and **Plotly**.  
-- <ins>**Predictive Modeling**</ins>: Building and deploying machine learning models (e.g., regression, classification, clustering) using **Scikit-learn** and **XGBoost**.  
-- <ins>**Data Storytelling**</ins>: Creating interactive dashboards and reports with **Tableau** and **Power BI** to communicate insights effectively.  
-- <ins>**ETL Pipelines**</ins>: Designing efficient data workflows with **SQL**, **Apache Spark**, and cloud tools like **AWS Glue** and **Azure Data Factory**.
+  
+  - <ins>**Data Wrangling**</ins>: Cleaning and preprocessing messy datasets using **Pandas**, **NumPy**, and custom pipelines.  
+  - <ins>**Feature Engineering**</ins>: Crafting meaningful features to improve model performance, including handling missing data, scaling, and encoding.  
+  - <ins>**Exploratory Data Analysis (EDA)**</ins>: Visualizing data trends and patterns with **Matplotlib**, **Seaborn**, and **Plotly**.  
+  - <ins>**Predictive Modeling**</ins>: Building and deploying machine learning models (e.g., regression, classification, clustering) using **Scikit-learn** and **XGBoost**.  
+  - <ins>**Data Storytelling**</ins>: Creating interactive dashboards and reports with **Tableau** and **Power BI** to communicate insights effectively.  
+  - <ins>**ETL Pipelines**</ins>: Designing efficient data workflows with **SQL**, **Apache Spark**, and cloud tools like **AWS Glue** and **Azure Data Factory**.
 
 ### 🧠 **Natural Language Processing (NLP)**  
 
