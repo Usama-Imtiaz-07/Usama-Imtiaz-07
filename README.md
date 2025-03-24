@@ -6,6 +6,10 @@ Data Scientist and Machine learning engineer
 
 I’m a Machine Learning Engineer and Data Scientist specializing in **Natural Language Processing (NLP)** and data-driven solutions. My work includes implementing advanced NLP techniques like **RAG (Retrieval-Augmented Generation)**, fine-tuning large language models, and building systems for text classification, sentiment analysis, and information extraction. On the data science side, I focus on **predictive modeling**, **data wrangling**, and **visual storytelling** to turn raw data into actionable insights. I’m passionate about creating tools and systems that make complex data accessible and useful.
 
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Usama-Imtiaz-07/Portfolio-Guide/blob/main/README.md).
+
 ## 🔍 What You'll Find Here
 
 - 🧠 <ins>**AI & NLP Solutions**</ins>: Implementation of fine-tuned language models (e.g., BERT, GPT) for tasks like text classification, named entity recognition (NER), and question answering. Development of automatic speech recognition (ASR) systems, sentiment analysis pipelines, and retrieval-augmented generation (RAG) frameworks to enhance LLMs with external knowledge. Also includes building information extraction systems to derive structured insights from unstructured text. 
