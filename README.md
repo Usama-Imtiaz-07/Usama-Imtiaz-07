@@ -8,7 +8,7 @@ I’m a Machine Learning Engineer and Data Scientist specializing in **Natural L
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Usama-Imtiaz-07/Portfolio-Guide/blob/main/README.md).
+You can visit my project section from this link to get an overview: [projects](https://github.com/Usama-Imtiaz-07/Portfolio-Guide/blob/main/README.md).
 
 ## 🔍 What You'll Find Here
 
