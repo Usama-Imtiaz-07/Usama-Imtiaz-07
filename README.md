@@ -1,10 +1,10 @@
 Hi 👋 My name is Usama Imtiaz
 =============================
 
-Data Scientist and Machine learning engineer
+Software Engineer - Full Stack | Data Scientist & Analyst | ML/NLP Practitioner
 --------------------------------------------
 
-I’m a Machine Learning Engineer and Data Scientist specializing in **Natural Language Processing (NLP)** and data-driven solutions. My work includes implementing advanced NLP techniques like **RAG (Retrieval-Augmented Generation)**, fine-tuning large language models, and building systems for text classification, sentiment analysis, and information extraction. On the data science side, I focus on **predictive modeling**, **data wrangling**, and **visual storytelling** to turn raw data into actionable insights. I’m passionate about creating tools and systems that make complex data accessible and useful.
+I’m a multidisciplinary engineer with expertise in software engineering, data science, and machine learning, with a strong focus on building real-world systems that combine technical robustness with practical value. I work across the stack—from developing APIs and deploying applications to analyzing data and fine-tuning language models. My interests sit at the intersection of intelligent systems, data-driven decision-making, and product-focused development.
 
 ## 📚 Projects
 
