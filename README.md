@@ -43,7 +43,7 @@ AWS (EC2, S3, Glue), Azure (ML, Data Factory) — for cloud-native development a
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
 📍 London, United Kingdom  
 💼 Actively seeking impactful ML/MLOps/DS roles
 
