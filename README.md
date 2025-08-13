@@ -3,7 +3,7 @@
 <br />
 =============================
 
-Software Engineer - Full Stack | Data Scientist & Analyst | ML/NLP Engineer
+Full Stack Software Engineer | Machine Learning/ AI Engineer | Data Scientist
 --------------------------------------------
 
 I’m a multidisciplinary engineer with expertise in full stack software engineering, data science, and machine learning, with a strong focus on building real-world systems that combine technical robustness with practical value. I work across the stack—from developing APIs and deploying applications to analyzing data and fine-tuning language models. My interests sit at the intersection of intelligent systems, data-driven decision-making, and product-focused development.
@@ -15,21 +15,22 @@ You can visit my project section from this link to get an overview: [projects](h
 ## 🛠️ **Technical Expertise**
 
 #### 🧑‍💻 Programming Languages
-Python, SQL, JavaScript, C++, R — strong foundation in writing clean, modular, and scalable code across scripting, backend, and analytics tasks.
+Python, SQL, JavaScript, Typescript, C++, R — strong foundation in writing clean, modular, and scalable code across scripting, backend, and analytics tasks.
 
-#### 📚 Data Science & Analytics
-Pandas, NumPy, Scikit-learn, XGBoost — for data wrangling, modeling, and experimentation
-Matplotlib, Seaborn, Plotly, Tableau — for data visualization and storytelling
-SQL, Excel, Power BI — for dashboarding and business analytics
+#### 🌐 Full Stack & Web Development
+Node.js, Django, Flask, FastAPIs, Express, Postman  — for building APIs, backends, and full-stack applications
+React, Angular, Figma, Material UI, Bootstrap, TailwindCSS — for developing user friendly UI/UX and frontends 
+Git, GitHub Actions — for version control and CI/CD
+Azure, AWS, MongoDB, MySQl, Postgres - for cloud Infrastructure and database storage
 
 #### 🧠 Machine Learning & NLP
 PyTorch, TensorFlow, Hugging Face Transformers, spaCy, NLTK, LangChain, LlamaIndex
 Fine-tuning LLMs, RAG pipelines, information extraction, ASR systems, and end-to-end ML model deployment
 
-#### 🌐 Software & Web Development
-FastAPI, Flask, JavaScript, React — for building APIs, web tools, and full-stack applications
-Streamlit, Gradio — for rapid prototyping and interactive ML dashboards
-Git, GitHub Actions — for version control and CI/CD
+#### 📚 Data Science & Analytics
+Pandas, NumPy, Scikit-learn, XGBoost — for data wrangling, modeling, and experimentation
+Matplotlib, Seaborn, Plotly, Tableau — for data visualization and storytelling
+SQL, Excel, Power BI — for dashboarding and business analytics
 
 #### 🛢️ Data Engineering & Infrastructure
 Apache Airflow, Apache Spark — for building scalable data workflows and ETL pipelines
@@ -45,7 +46,7 @@ AWS (EC2, S3, Glue), Azure (ML, Data Factory) — for cloud-native development a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
 📍 London, United Kingdom  
-💼 Actively seeking impactful ML/MLOps/DS roles
+💼 Actively seeking impactful Full Stack and Machine Learning roles
 
 
 ##### ASPIRATIONS
