@@ -3,7 +3,7 @@
 <br />
 =============================
 
-Full Stack Software Engineer | Machine Learning/ AI Engineer | Data Scientist
+Full Stack Software/Machine Learning Engineer 
 --------------------------------------------
 
 I’m a multidisciplinary engineer with expertise in full stack software engineering, data science, and machine learning, with a strong focus on building real-world systems that combine technical robustness with practical value. I work across the stack—from developing APIs and deploying applications to analyzing data and fine-tuning language models. My interests sit at the intersection of intelligent systems, data-driven decision-making, and product-focused development.
